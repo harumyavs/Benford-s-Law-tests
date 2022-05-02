@@ -1,1 +1,1 @@
-# BenfordsLawtests
+# BenfordsLawtest
